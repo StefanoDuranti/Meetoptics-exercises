@@ -1,0 +1,26 @@
+{
+    "thorlabs/LA1036-A": {
+        "Back Focal Length (mm)": "5.01",
+        "Center Thickness (mm)": "1.5",
+        "Damage Threshold": "7.5 J/cm<sup>2</sup> (532 nm, 10 ns, 10 Hz, Ø0.456 mm)",
+        "Diameter (mm)": "3.0",
+        "Diopter": "+166.7",
+        "Edge Thickness (mm)": "1.0",
+        "Focal Length (mm)": "6.0",
+        "Radius of Curvature (mm)": "3.1",
+        "Reference Drawing": "",
+        "AR Coating Range": "350 - 700 nm (-A Coating)",
+        "Abbe Number": "v_d = 64.17",
+        "Clear Aperture": ">90% of Diameter",
+        "Damage Threshold": "7.5 J/cm<sup>2</sup>(532 nm, 10 ns, 10 Hz, Ø0.456 mm)",
+        "Design Wavelength": "587.6 nm",
+        "Focal Length Tolerance": "±1%",
+        "Index of Refraction": "1.515",
+        "Lens Shape": "Plano-Convex",
+        "Spherical Surface Power (Convex Side)": "3λ/2",
+        "Substrate Material": "N-BK7 (Grade A)",
+        "Surface Flatness (Plano Side)": "λ/2",
+        "Surface Irregularity (Peak to Valley)": "λ/4",
+        "Reflectance over Coating Range (Avg.) @ 0° AOI": "<0.5%"
+    }
+}
